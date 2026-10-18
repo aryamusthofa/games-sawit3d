@@ -1,0 +1,8 @@
+{
+  "name": "Remix Sawit Clash 3D: Simulator \u0026 Duel Pemanenan",
+  "description": "Game 3D pemanenan \u0026 manajemen perkebunan kelapa sawit dengan sudut pandang TPS/FPS, upgrade mesin berat, dan mode kompetisi multiplayer online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

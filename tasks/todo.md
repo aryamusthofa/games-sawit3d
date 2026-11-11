@@ -5,11 +5,11 @@
 - [x] Create initial GDD and task plan.
 - [x] Add tests for offline plantation simulation.
 - [x] Implement deterministic palm simulation module.
-- [ ] Run tests in connected development environment.
+- [x] Run tests in GitHub Actions (11/11 passed).
 - [ ] Add landscape HUD and touch movement to app.
-- [ ] Wire local save/load into app.
+- [x] Wire local save/load into the offline prototype route.
 
-## Prototype playtest
+- [x] Create a procedural Tunaswangi 3D plantation blockout (28 palm trunks; GLB exported).\n\n## Prototype playtest
 - [ ] Plant seedling in an empty plot.
 - [ ] Water and advance in-game day.
 - [ ] Mature palm becomes harvestable.

@@ -19,8 +19,8 @@ Turn the existing React + Three.js prototype into an offline-first, Android-land
 - [x] Write product GDD and acceptance plan.
 - [x] Add offline simulation tests and core module.
 - [ ] Add landscape-first HUD and controls to the playable scene.
-- [ ] Add offline save/load integration to the app state.
-- [ ] Add a small interactable plantation district.
+- [x] Add offline local save/load integration to the prototype route.
+- [x] Create a compact procedural Tunaswangi 3D plantation blockout.\n- [ ] Connect the 3D district to interactive player movement and simulation.
 
 ### Checkpoint: Foundation
 - [ ] Tests pass in CI.
